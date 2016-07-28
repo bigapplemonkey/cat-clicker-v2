@@ -1,5 +1,5 @@
 # Cat-clicker
-## Learning to use organization libraries: knockoutjs
+### Learning to use organization libraries: knockoutjs
 
 - Simple cat-clicker app.
 - Binding, views and models.
